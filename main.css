@@ -1,0 +1,73 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    line-height: 1.5rem;
+}
+
+#header-id {
+    text-align: center;
+    padding: 350px 0px;
+    height: 100vh;
+    background-image: url(beach.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header-id h1 {
+    font-size: 50px;
+    color: #926239;
+}
+
+#header-id p {
+    padding: 10px;
+    color: #926239;
+}
+
+#header-id .button {
+    display: inline-block;
+    font-size: 15px;
+    color: #926239;
+    text-decoration: none;
+    border-radius: 10px;
+    border: #926239 1px solid;
+    padding: 15px 20px;
+    margin: 15px;
+}
+
+.section-1 {
+    background-color: #926239;
+    color: white;
+    padding: 20px;
+}
+
+.section-2 {
+    color: #926239;
+    padding: 20px;
+}
+
+.section-father-children-1,
+.section-father-children-2,
+.section-father-children-3 {
+    display: inline-block;
+    width: 631.3px;
+}
+
+
+.section-father-children-1 {
+    color: white;
+    background-color: #926239;
+    padding: 20px;
+}
+
+.section-father-children-2 {
+    color: #926239;
+    padding: 20px;
+}
+
+.section-father-children-3 {
+    color: white;
+    padding: 20px;
+    background-color: #926239;
+}
